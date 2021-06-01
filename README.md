@@ -1,12 +1,14 @@
-##CARA INSTALL MELALUI GITCLONE
-```pkg install git
+CARA INSTALL MELALUI GITCLONE
+
+> pkg install git
 > gitclone https://github.com/ItsAraZ/Arabot
 > cd arabot
 > bash install.sh
 > npm start
 > scan qr
-## CARA INSTALL
-```bash
+
+CARA INSTALL
+
 > termux-setup-storage [Y]
 > cd /sdcard
 > cd -r arabot /$HOME
@@ -14,4 +16,3 @@
 > bash install.sh 
 > npm start
 > Now scan the QR
-```
